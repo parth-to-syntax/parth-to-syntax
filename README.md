@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
 
-<!--
-**parth-to-syntax/parth-to-syntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at Nirma University, focusing on full-stack development, cloud fundamentals, and AI/ML applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+**B.Tech in Computer Science & Engineering**  
+Nirma University (2023–2027)  
+*Minor in Adaptive AI*  
+**CGPA:** 8.54
+
+---
+
+## 🛠️ Technical Skills
+**Languages:** Java, Python, C++, JavaScript  
+**Web:** React.js, Node.js, Express.js, HTML, CSS  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools:** Git, GitHub, Linux, Docker, Redis  
+**Core:** OOP, Debugging, Cloud Fundamentals, Collaboration
+
+---
+
+## 🔗 Connect With Me
+- **GitHub:** [parth-to-syntax](https://github.com/parth-to-syntax)  
+- **LinkedIn:** [parth-srivastava](https://www.linkedin.com/in/parth-srivastava-aa6b032aa/)  
+- **Email:** parth.srivastava560@gmail.com  
