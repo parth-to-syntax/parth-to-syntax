@@ -8,7 +8,7 @@ I'm a Computer Science undergraduate at Nirma University, focusing on full-stack
 **B.Tech in Computer Science & Engineering**  
 Nirma University (2023–2027)  
 *Minor in Adaptive AI*  
-**CGPA:** 8.54
+
 
 ---
 
