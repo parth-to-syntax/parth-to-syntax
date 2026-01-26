@@ -10,8 +10,8 @@ I build backend-heavy, scalable systems and enjoy integrating modern tech like R
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-to-syntax&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parth-to-syntax&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=parth-to-syntax&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=parth-to-syntax&theme=tokyonight&hide_border=true" height="160"/> -->
 </p>
 
 <p align="center">
