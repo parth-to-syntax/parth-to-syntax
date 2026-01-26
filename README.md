@@ -1,7 +1,7 @@
 # Hi, I'm Parth 👋
 
 🎓 Computer Science Undergraduate @ **Nirma University**  
-💻 Full-Stack (PERN) Developer | ☁️ Cloud Fundamentals | 🤖 AI/ML Enthusiast  
+💻 Full-Stack Developer | ☁️ Cloud Fundamentals | 🤖 AI/ML Enthusiast  
 
 I build backend-heavy, scalable systems and enjoy integrating modern tech like Redis, Docker, and AI into real-world applications.
 
