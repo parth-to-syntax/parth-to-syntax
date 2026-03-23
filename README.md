@@ -1,6 +1,6 @@
 # Hi, I'm Parth 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=58A6FF&width=600&lines=CSE+2027+%7C+Nirma+University;Full-Stack+%7C+Backend+%7C+AI+Engineer+%7C+Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=58A6FF&width=600&speed=40&deletingSpeed=20&lines=CSE+2027+%7C+Nirma+University;Full-Stack+%7C+AI%2FML+%7C+DL+%7C+Cloud)](https://git.io/typing-svg)
 
 🎓 Computer Science Undergraduate @ **Nirma University**  
 💻 Full-Stack Developer | ☁️ Cloud Fundamentals | 🤖 AI/ML Enthusiast  
