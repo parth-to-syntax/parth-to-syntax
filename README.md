@@ -11,7 +11,7 @@ I build backend-heavy, scalable systems and enjoy integrating modern tech like R
   <img alt="github-snake" src="https://raw.githubusercontent.com/parth-to-syntax/parth-to-syntax/output/github-snake.svg"/>
 </picture>
 
-![](https://github-readme-stats.vercel.app/api?username=parth-to-syntax&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&show_icons=true&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api?username=parth-to-syntax&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&hide_rank=true)
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-to-syntax&layout=compact&theme=tokyonight&hide_border=true"/>
