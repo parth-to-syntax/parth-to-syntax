@@ -1,19 +1,11 @@
-# Hi, I'm Parth 👋
-
+# Hi, I'm Parth 
 🎓 Computer Science Undergraduate @ **Nirma University**  
 💻 Full-Stack Developer | ☁️ Cloud Fundamentals | 🤖 AI/ML Enthusiast  
-
 I build backend-heavy, scalable systems and enjoy integrating modern tech like Redis, Docker, and AI into real-world applications.
 
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=parth-to-syntax&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=parth-to-syntax&theme=tokyonight&hide_border=true" height="160"/> -->
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-to-syntax&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
@@ -21,15 +13,13 @@ I build backend-heavy, scalable systems and enjoy integrating modern tech like R
 ---
 
 ## 📚 Education
-
 **B.Tech in Computer Science & Engineering**  
 Nirma University (2023–2027)  
 🎓 *Minor in Adaptive AI*
 
 ---
 
-## 🛠️ Technical Skills  
-*(Click icons → official documentation)*
+## 🛠️ Technical Skills
 
 ### 💻 Languages
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
@@ -41,6 +31,7 @@ Nirma University (2023–2027)
 <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a>
 <a href="https://nodejs.org/en/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css"/></a>
 
@@ -50,6 +41,12 @@ Nirma University (2023–2027)
 <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
 <a href="https://redis.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=redis"/></a>
 
+### 🤖 AI / ML
+<a href="https://pytorch.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch"/></a>
+<a href="https://huggingface.co/docs/transformers" target="_blank"><img src="https://skillicons.dev/icons?i=huggingface"/></a>
+
+**Also working with:** PyTorch · WavLM · LangChain / LangGraph · NLP · Transformers
+
 ### ⚙️ Tools & DevOps
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a>
 <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
@@ -58,17 +55,7 @@ Nirma University (2023–2027)
 
 ---
 
-## 🧠 Core Concepts
-- Object-Oriented Programming (OOP)
-- Backend System Design
-- Debugging & Optimization
-- Cloud Fundamentals
-- Team Collaboration & Version Control
-
----
-
 ## 🔗 Connect With Me
-
 - 💻 **GitHub:** [parth-to-syntax](https://github.com/parth-to-syntax)
 - 💼 **LinkedIn:** [Parth Srivastava](https://www.linkedin.com/in/parth-srivastava-aa6b032aa/)
 - 📧 **Email:** parth.srivastava560@gmail.com
