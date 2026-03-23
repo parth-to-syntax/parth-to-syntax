@@ -1,5 +1,7 @@
 # Hi, I'm Parth 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Backend+Engineer;Hackathon+Builder+%F0%9F%8F%86;Nirma+University+%7C+CSE+2027)](https://git.io/typing-svg)
+
 🎓 Computer Science Undergraduate @ **Nirma University**  
 💻 Full-Stack Developer | ☁️ Cloud Fundamentals | 🤖 AI/ML Enthusiast  
 I build backend-heavy, scalable systems and enjoy integrating modern tech like Redis, Docker, and AI into real-world applications.
