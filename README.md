@@ -5,6 +5,12 @@
 I build backend-heavy, scalable systems and enjoy integrating modern tech like Redis, Docker, and AI into real-world applications.
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth-to-syntax/parth-to-syntax/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth-to-syntax/parth-to-syntax/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/parth-to-syntax/parth-to-syntax/output/github-snake.svg"/>
+</picture>
+
 
 ## 📊 GitHub Analytics
 <p align="center">
