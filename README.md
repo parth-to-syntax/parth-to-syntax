@@ -65,6 +65,6 @@ Nirma University (2023–2027)
 ---
 
 ## 🔗 Connect With Me
-- 💻 **GitHub:** [parth-to-syntax](https://github.com/parth-to-syntax)
+
 - 💼 **LinkedIn:** [Parth Srivastava](https://www.linkedin.com/in/parth-srivastava-aa6b032aa/)
-- 📧 **Email:** parth.srivastava560@gmail.com
+- 📧 **Email:** parth.srivastava660@gmail.com
